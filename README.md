@@ -11,8 +11,8 @@ new technologies and methodologies.
 to push my boundaries and contribute meaningfully to the tech community.
 
 📫 You can reach out to me via email at aldocalderon97@gmail.com
- or connect with me on LinkedIn [...].
+ or connect with me on LinkedIn https://www.linkedin.com/in/alduinocalderon/
 
-⚡ Fun Fact: I'm also passionate about IOT, Math and automation
+⚡ Fun Fact: I'm also passionate about IOT, Math and DIY automation
 I believe in the power of continuous learning and growth.
 
