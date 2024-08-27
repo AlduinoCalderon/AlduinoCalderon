@@ -11,7 +11,7 @@ contribute in meaningful ways. I enjoy being part of teams where I can learn whi
 through my skills in backend development, automation, and IoT.
 
 📫 You can reach out to me at aldocalderon97@gmail.com or 
-connect with me on LinkedIn. https://www.linkedin.com/in/alduinocalderon?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+connect with me on LinkedIn. https://www.linkedin.com/in/alduinocalderon
 
 ⚡ Fun Fact: I’m passionate about DIY automation, math, and optimizing systems. 
 My drive is rooted in a belief that continuous learning is key to growth, both personally and professionally.
