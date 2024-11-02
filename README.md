@@ -14,7 +14,7 @@ I enjoy being part of teams where I can learn while also bringing value through 
 - IoT
 
 
-📫 You can reach me at [aldocalderon97@gmail.com](mailto:aldocalderon97@gmail.com)  
+📫 You can reach me at [alduinocalderon@gmail.com](mailto:alduinocalderon@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alduino_Calderon-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alduinocalderon)
 
 ⚡ Fun Fact:  
