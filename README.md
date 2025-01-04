@@ -1,6 +1,6 @@
 # 🐢 Hi there, I'm Alduino Calderon!
 
-🎓 Final-year Technological Innovation Engineering student from Mexico 🇲🇽.  
+🎓 Technological Innovation Engineering student from Mexico 🇲🇽.  
 I have a solid foundation in software development and a strong passion for **math**, **problem-solving**, and **lateral thinking**.
 
 🌱 I’m continuously building my knowledge and exploring new technologies,  
