@@ -2,13 +2,13 @@
 
 ## *💼 Technology Innovation Engineer | AI & Data Specialist*
 
-Technology Innovation Engineer with 5+ years of experience designing and building **backend systems, AI-driven solutions, and data pipelines**. My expertise lies in combining **robust backend architecture** with **machine learning and analytics** to create scalable, impactful applications.
+Technology Innovation Engineer with 5+ years of experience designing and building **fullstack systems, AI-driven solutions, and data pipelines**. My expertise lies in combining **robust backend architecture** with **machine learning and analytics** to create scalable, impactful applications.
 
 My professional background includes **international, on-site work experience** in the USA and Japan — completing the *Emerging Future Technology* program in Japan (Cold Storage AIoT Monitoring System, 3D spatial analytics, hybrid databases) and a Specialization in Data Science & Artificial Intelligence at *The University of Texas at Austin*. These roles have strengthened my ability to deliver solutions in diverse, high-performance environments.
 
 ## 🚀 Core Competencies
 
-* **Backend Development & API Architecture** (design, optimization, scaling)
+* **FullStack Development & API Architecture** (design, optimization, scaling)
 * **AI & Machine Learning** model integration
 * **Data Processing & Analytics** (real-time & batch)
 * **Automation Systems** (industrial & service applications)
